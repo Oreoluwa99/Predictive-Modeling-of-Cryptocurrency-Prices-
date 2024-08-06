@@ -17,5 +17,17 @@ This project aims to analyze and predict Bitcoin prices using various time serie
   Analyze feature importance for the Random Forest model.
   Use SHAP values to interpret the model's predictions.
 
+# Getting Started
+## Prerequisites
+* Python 3.x
+* Required Python packages:
+* pandas
+* numpy
+* scikit-learn
+* statsmodels
+* tensorflow
+* matplotlib
+* yfinance
+* shap
 
 
